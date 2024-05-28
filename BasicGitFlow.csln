@@ -1,0 +1,19 @@
+{
+  "_fileMetadata": {
+    "_schema": "1.0.0.0",
+    "_createdByAppHost": "1.3201.17.0",
+    "_created": "2024-05-28T19:24:13.3765104-03:00",
+    "_lastModifiedByAppHost": "1.3201.17.0",
+    "_modified": "2024-05-28T19:24:13.376496-03:00"
+  },
+  "_solution": {
+    "_name": "BasicGitFlow",
+    "_projects": [
+      {
+        "_name": "SimpleGui",
+        "_filename": "SimpleGui.cuip",
+        "_datetime": "2024-05-28T22:24:13.3144824Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3201.17.0"
+Created = 2024-05-28 19:24:13.352481-03:00
+LastModifiedByAppHost = "1.3201.17.0"
+Modified = 2024-05-28 19:24:13.352474-03:00
+CreatedByProjectApp = "1.3201.17.0"
+LastModifiedByProjectApp = "1.3201.17.0"
+MinimumProjectApp = "1.2600.1"
+
+{DeviceResolutionSource}
+[]
+
+{ProjectAttributes}
+
+[Attributes]
+ComponentKey = "UiEditor"
+Name = "SimpleGui"
+ThemeId = "light-theme.css"
+SdkId = "CH5:2.8.0"
+DeviceResolutionIds = "G-L-4KMONIT-2560-1440"
+ipId = "03"
+ProjectSchemaVersion = "3"
+

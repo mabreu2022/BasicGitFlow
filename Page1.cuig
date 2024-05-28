@@ -1,0 +1,62 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3201.17.0"
+Created = 2024-05-28 19:34:12.753434-03:00
+LastModifiedByAppHost = "1.3201.17.0"
+Modified = 2024-05-28 19:34:12.753429-03:00
+CreatedByProjectApp = "1.3201.17.0"
+LastModifiedByProjectApp = "1.3201.17.0"
+MinimumProjectApp = "1.2600.1"
+
+{Html}
+<ch5-button type="default" halignlabel="center" valignlabel="middle" checkboxshow="false" checkboxposition="left" disabled="false" pageFlipAttributeName="pageflip" clearLabel="false" ccid_imageIconType="iconclass" ccid_linkSendReceive="True" iconurlfilltype="initial" customclass="ccid-custom" affectedByPreviewState="True" shape="rounded-rectangle" customvstheme="custom" id="il6n" labelinnerhtml="Button1" pageflip="0" size="regular" iconposition="first" previewstate="normal" orientation="horizontal" labelmode="simple" componentName="Button" ccid_themeCSSSet="true" devicesVisited="[&quot;4K Monitor&quot;]">
+              </ch5-button>
+
+{Css}
+@media (max-width: 99999px){#wrapper{background-color:#fff;}#il6n{pointer-events:all;width:84px;height:42px;font-family:Roboto;display:block;left:64px;top:73px;position:absolute;}#il6n .ch5-button--default{border-style:solid;border-color:#0091ea;color:#ffffff;background-color:#0099ff;border-width:1px;}#il6n .ch5-button--default .ch5-button--label{font-family:Roboto;color:#ffffff;font-size:14px;font-weight:400;buttonDefaultLabel_font-size:14px;buttonDefaultLabel_color:#ffffff;buttonDefaultLabel_font-weight:400;}#il6n .ch5-button--default .ch5-button--icon{color:#ffffff;font-size:14px;custom-font-size:14px;buttonDefaultIcon_font-size:14px;buttonDefaultIcon_color:#ffffff;}#il6n .ch5-button--default .cb-checkbox-icon{color:#ffffff;buttonDefaultCheckbox_color:#ffffff;}#il6n .ccid-custom.ch5-button--default .ch5-button--img{width:21px;height:21px;buttonDefaultImage_width:21px;buttonDefaultImage_height:21px;}#il6n .ch5-button--default.ch5-button--pressed{color:#f0fff0;background-color:#008ae6;border-color:#0091ea;}#il6n .ch5-button--default.ch5-button--pressed .ch5-button--label{color:#f0fff0;font-size:14px;font-weight:400;buttonDefaultPressedLabel_font-size:14px;buttonDefaultPressedLabel_color:#f0fff0;buttonDefaultPressedLabel_font-weight:400;}#il6n .ch5-button--default.ch5-button--pressed .ch5-button--icon{color:#f0fff0;font-size:14px;custom-font-size:14px;buttonDefaultPressedIcon_font-size:14px;buttonDefaultPressedIcon_color:#f0fff0;}#il6n .ch5-button--default.ch5-button--pressed .cb-checkbox-icon{color:#f0fff0;buttonDefaultPressedCheckbox_color:#f0fff0;}#il6n .ccid-custom.ch5-button--default.ch5-button--pressed .ch5-button--img{width:21px;height:21px;buttonDefaultImage_width:21px;buttonDefaultImage_height:21px;}#il6n .ch5-button--default.ch5-button--selected{color:#f0fff0;background-color:#0073bf;border-color:#0091ea;}#il6n .ch5-button--default.ch5-button--selected .ch5-button--label{color:#f0fff0;font-size:14px;font-weight:400;buttonDefaultSelectedLabel_font-size:14px;buttonDefaultSelectedLabel_color:#f0fff0;buttonDefaultSelectedLabel_font-weight:400;}#il6n .ch5-button--default.ch5-button--selected .ch5-button--icon{color:#f0fff0;font-size:14px;custom-font-size:14px;buttonDefaultSelectedIcon_font-size:14px;buttonDefaultSelectedIcon_color:#f0fff0;}#il6n .ch5-button--default.ch5-button--selected .cb-checkbox-icon{color:#f0fff0;buttonDefaultSelectedCheckbox_color:#f0fff0;}#il6n .ccid-custom.ch5-button--default.ch5-button--selected .ch5-button--img{width:21px;height:21px;buttonDefaultImage_width:21px;buttonDefaultImage_height:21px;}}@media (orientation: landscape) and (max-width: 2561px) and (max-height: 1441px), (orientation: landscape) and (max-width: 2559px){body{background-color:#fff;}#il6n{pointer-events:all;width:84px;height:42px;font-family:Roboto;display:block;left:64px;top:73px;position:absolute;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "Page1"
+PageMode = "absolute"
+Id = "028ff3ea-f8e8-4264-a85b-1a85d00063d8"
+StartPage = "True"
+VisibilityJoin = "0"
+
+[[Elements]]
+Type = "Ch5 Button"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+type = "default"
+halignlabel = "center"
+valignlabel = "middle"
+checkboxshow = "false"
+checkboxposition = "left"
+disabled = "false"
+pageFlipAttributeName = "pageflip"
+clearLabel = "false"
+ccid_imageIconType = "iconclass"
+ccid_linkSendReceive = "True"
+iconurlfilltype = "initial"
+customclass = "ccid-custom"
+affectedByPreviewState = "True"
+shape = "rounded-rectangle"
+customvstheme = "custom"
+id = "il6n"
+labelinnerhtml = "Button1"
+pageflip = "0"
+size = "regular"
+iconposition = "first"
+previewstate = "normal"
+orientation = "horizontal"
+labelmode = "simple"
+componentName = "Button"
+ccid_themeCSSSet = "true"
+devicesVisited = "[\"4K Monitor\"]"
+
