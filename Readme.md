@@ -6,4 +6,6 @@ this project will demostrate the simplest way to create a git
 
 Adicionada pagina 2
 * widget contento um keypad
-* a Crestron Logo Iamge
+* a Crestron Logo Image
+
+Adicionada pagina 3

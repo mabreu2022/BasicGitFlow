@@ -1,0 +1,96 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3201.17.0"
+Created = 2024-05-28 20:27:59.114223-03:00
+LastModifiedByAppHost = "1.3201.17.0"
+Modified = 2024-05-28 20:27:59.114212-03:00
+CreatedByProjectApp = "1.3201.17.0"
+LastModifiedByProjectApp = "1.3201.17.0"
+MinimumProjectApp = "1.2600.1"
+
+{Html}
+<ch5-dpad size="regular" shape="plus" type="default" hidecenterbutton="false" disablecenterbutton="false" customvstheme="custom" id="i4gg" componentName="Dpad" ccid_linkSendReceive="True" devicesVisited="[&quot;4K Monitor&quot;]" ccid_themeCSSSet="true">
+              <ch5-dpad-button componentName="Up" key="up" iconclass="fas fa-caret-up" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Down" key="down" iconclass="fas fa-caret-down" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Left" key="left" iconclass="fas fa-caret-left" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Right" key="right" iconclass="fas fa-caret-right" ccid_imageIconType="iconclass"></ch5-dpad-button><ch5-dpad-button componentName="Center" key="center" ccid_imageIconType="iconclass"></ch5-dpad-button></ch5-dpad>
+
+{Css}
+@media (max-width: 99999px){#wrapper{background-color:#fff;}#i4gg.ch5-dpad.ch5-dpad--type-default .ch5-dpad-child{dpadDefault_color:#ffffff;color:#ffffff;dpadDefault_background-color:#0099ff;background-color:#0099ff;}#i4gg.ch5-dpad.ch5-dpad--type-default .ch5-dpad-button-center--pressed{dpadActiveDefault_color:#f0fff0;color:#f0fff0;dpadActiveDefault_background-color:#008ae6;background-color:#008ae6;}#i4gg.ch5-dpad .ch5-dpad-child.direction-btn span.dpad-btn-icon{z-index:1;}#i4gg.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:after{box-shadow:-10px 1px 0 0 #0099ff;}#i4gg.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up:before{box-shadow:10px 1px 0 0 #0099ff;}#i4gg.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:after{box-shadow:10px -1px 0 0 #0099ff;}#i4gg.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down:before{box-shadow:-10px -1px 0 0 #0099ff;}#i4gg.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up[class*="--pressed"]:after{box-shadow:-10px 1px 0 0 #008ae6;}#i4gg.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.up[class*="--pressed"]:before{box-shadow:10px 1px 0 0 #008ae6;}#i4gg.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down[class*="--pressed"]:after{box-shadow:10px -1px 0 0 #008ae6;}#i4gg.ch5-dpad.ch5-dpad--shape-plus.ch5-dpad--type-default .direction-btn.down[class*="--pressed"]:before{box-shadow:-10px -1px 0 0 #008ae6;}#i4gg.ch5-dpad.ch5-dpad--type-default ch5-dpad-button[class*="--pressed"]{background-color:#008ae6;}#i4gg.ch5-dpad.ch5-dpad--type-default ch5-dpad-button{background-color:#0099ff;}#i4gg.ch5-dpad.ch5-dpad--shape-plus ch5-dpad-button.direction-btn{flex:calc(100%/3);height:calc(100%/3);}#i4gg.ch5-dpad ch5-dpad-button.center{width:calc(100%/3);height:calc(100%/3);z-index:2;}#i4gg.ch5-dpad ch5-dpad-button.down{z-index:0;}#i4gg .dpad-container{min-width:100px;min-height:100px;}#i4gg.ch5-dpad.ch5-dpad--size-regular .dpad-container{width:150px;}#i4gg.ch5-dpad.ch5-dpad--type-default .ch5-dpad-button-right--pressed{dpadActiveDefault_color:#f0fff0;color:#f0fff0;dpadActiveDefault_background-color:#008ae6;background-color:#008ae6;}#i4gg.ch5-dpad.ch5-dpad--type-default .ch5-dpad-button-left--pressed{dpadActiveDefault_color:#f0fff0;color:#f0fff0;dpadActiveDefault_background-color:#008ae6;background-color:#008ae6;}#i4gg.ch5-dpad.ch5-dpad--type-default .ch5-dpad-button-down--pressed{dpadActiveDefault_color:#f0fff0;color:#f0fff0;dpadActiveDefault_background-color:#008ae6;background-color:#008ae6;}#i4gg.ch5-dpad.ch5-dpad--type-default .ch5-dpad-button-up--pressed{dpadActiveDefault_color:#f0fff0;color:#f0fff0;dpadActiveDefault_background-color:#008ae6;background-color:#008ae6;}#i4gg{pointer-events:all;display:block;width:150px;dpadDefault_color:#ffffff;dpadActiveDefault_color:#f0fff0;left:35px;top:19px;position:absolute;dpadDefault_background-color:#0099ff;dpadActiveDefault_background-color:#008ae6;}}@media (orientation: landscape) and (max-width: 2561px) and (max-height: 1441px), (orientation: landscape) and (max-width: 2559px){body{background-color:#fff;}#i4gg{pointer-events:all;display:block;width:150px;dpadDefault_color:#ffffff;dpadActiveDefault_color:#f0fff0;left:35px;top:19px;position:absolute;dpadDefault_background-color:#0099ff;dpadActiveDefault_background-color:#008ae6;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "Page3"
+PageMode = "absolute"
+Id = "d0159220-d0d5-4bf3-a738-203d0379a4f6"
+StartPage = "False"
+VisibilityJoin = "0"
+
+[[Elements]]
+Type = "Ch5 Dpad"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+[[Elements.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Attributes]
+componentName = "Up"
+key = "up"
+iconclass = "fas fa-caret-up"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Attributes]
+componentName = "Down"
+key = "down"
+iconclass = "fas fa-caret-down"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Attributes]
+componentName = "Left"
+key = "left"
+iconclass = "fas fa-caret-left"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Attributes]
+componentName = "Right"
+key = "right"
+iconclass = "fas fa-caret-right"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+[[Elements.Components]]
+Type = "Ch5 Dpad Button"
+
+[Elements.Components.Attributes]
+componentName = "Center"
+key = "center"
+pressed = "false"
+ccid_imageIconType = "iconclass"
+
+[Elements.Attributes]
+size = "regular"
+shape = "plus"
+type = "default"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+hidecenterbutton = "false"
+disablecenterbutton = "false"
+customvstheme = "custom"
+id = "i4gg"
+componentName = "Dpad"
+disabled = "false"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"4K Monitor\"]"
+ccid_themeCSSSet = "true"
+
