@@ -1,0 +1,51 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3201.17.0"
+Created = 2024-05-28 20:06:30.973743-03:00
+LastModifiedByAppHost = "1.3201.17.0"
+Modified = 2024-05-28 20:06:30.973735-03:00
+CreatedByProjectApp = "1.3201.17.0"
+LastModifiedByProjectApp = "1.3201.17.0"
+MinimumProjectApp = "1.2600.1"
+
+{Html}
+<ch5-template templateid="wc0a6b8c0-28d3-42fb-bc9d-c3532be7218c" id="i5xd" componentname="Widget1" devicesvisited="[&quot;4K Monitor&quot;]"></ch5-template><ch5-image refreshrate="0" customvstheme="custom" assetid="ffd4ab8d-f278-4e04-8911-dfd6128abf2f" id="iojj" componentname="Image" ccid_linksendreceive="True" devicesvisited="[&quot;4K Monitor&quot;]">
+              </ch5-image>
+
+{Css}
+@media (max-width: 99999px){#wrapper{background-color:#fff;}#i5xd{display:block;left:10px;top:10px;position:absolute;}#iojj .ch5-image{border-color:black;object-fit:contain;}#iojj{width:200px;height:200px;pointer-events:all;display:block;left:325px;top:23px;position:absolute;}}@media (orientation: landscape) and (max-width: 2561px) and (max-height: 1441px), (orientation: landscape) and (max-width: 2559px){#i5xd{display:block;left:10px;top:10px;position:absolute;}#iojj{width:200px;height:200px;pointer-events:all;display:block;left:325px;top:23px;position:absolute;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "Page2"
+PageMode = "absolute"
+Id = "76e0b8c7-30f1-4115-8ef8-aa719d5ce51f"
+StartPage = "False"
+VisibilityJoin = "0"
+
+[[Elements]]
+Type = "Ch5 Template"
+
+[Elements.Attributes]
+templateid = "wc0a6b8c0-28d3-42fb-bc9d-c3532be7218c"
+id = "i5xd"
+componentName = "Widget1"
+devicesVisited = "[\"4K Monitor\"]"
+[[Elements]]
+Type = "Ch5 Image"
+Editable = true
+
+[[Elements.Components]]
+Type = "textnode"
+Content = "\n              "
+
+[Elements.Attributes]
+refreshrate = "0"
+customvstheme = "custom"
+assetid = "ffd4ab8d-f278-4e04-8911-dfd6128abf2f"
+id = "iojj"
+componentName = "Image"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"4K Monitor\"]"
+

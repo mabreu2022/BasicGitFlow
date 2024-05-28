@@ -1,0 +1,193 @@
+{FileMetadata}
+Schema = "1.0.0.0"
+CreatedByAppHost = "1.3201.17.0"
+Created = 2024-05-28 20:06:30.969668-03:00
+LastModifiedByAppHost = "1.3201.17.0"
+Modified = 2024-05-28 20:06:30.969665-03:00
+CreatedByProjectApp = "1.3201.17.0"
+LastModifiedByProjectApp = "1.3201.17.0"
+MinimumProjectApp = "1.2600.1"
+
+{Html}
+<div id="ipuush8vo0" devicesVisited="[&quot;4K Monitor&quot;]" defaultWidth="500px" defaultHeight="500px" class="widget-container"><ch5-keypad shape="rounded-rectangle" size="regular" type="default" indexid="idx" useContractForCustomStyle="false" useContractForCustomClass="false" useContractForEnable="false" useContractForShow="false" affectedByPreviewState="True" useContractForHideAsteriskButton="false" useContractForHidePoundButton="false" textorientation="top" disabled="false" showextrabutton="false" customvstheme="custom" hideasteriskbutton="false" hidepoundbutton="false" id="i9u6" componentName="Keypad" ccid_linkSendReceive="True" devicesVisited="[&quot;4K Monitor&quot;]" ccid_themeCSSSet="true">
+              <ch5-keypad-button pressed="false" key="button1" labelmajor="1" labelminor="" componentName="button1"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button2" labelmajor="2" labelminor="ABC" componentName="button2"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button3" labelmajor="3" labelminor="DEF" componentName="button3"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button4" labelmajor="4" labelminor="GHI" componentName="button4"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button5" labelmajor="5" labelminor="JKL" componentName="button5"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button6" labelmajor="6" labelminor="MNO" componentName="button6"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button7" labelmajor="7" labelminor="PQRS" componentName="button7"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button8" labelmajor="8" labelminor="TUV" componentName="button8"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button9" labelmajor="9" labelminor="WXYZ" componentName="button9"></ch5-keypad-button><ch5-keypad-button pressed="false" key="button0" labelmajor="0" labelminor="+" componentName="button0"></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonstar" labelmajor="*" componentName="buttonstar"></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonhash" labelmajor="#" componentName="buttonhash"></ch5-keypad-button><ch5-keypad-button pressed="false" key="buttonextra" iconclass="fas fa-phone" componentName="buttonextra"></ch5-keypad-button></ch5-keypad></div>
+
+{Css}
+@media (max-width: 99999px){#ipuush8vo0{width:276px;height:369px;left:0;top:0;position:absolute;}#wrapper{background-color:#fff;}.widget-container{background-image:linear-gradient(45deg, #DAE2EA 25%, transparent 25%), linear-gradient(-45deg, #DAE2EA 25%, transparent 25%), linear-gradient(45deg, transparent 75%, #DAE2EA 75%), linear-gradient(-45deg, transparent 75%, #DAE2EA 75%);background-size:20px 20px;background-position:0 0, 0 10px, 10px -10px, -10px 0px;z-index:0;}#i9u6 .ch5-keypad.ch5-keypad--type-default .keypad-btn button{keypadDefault_color:#ffffff;color:#ffffff;keypadDefault_border-color:#0091ea;border-color:#0091ea;keypadDefault_background-color:#0099ff;background-color:#0099ff;keypadDefault_border-width:1px;border-width:1px;keypadDefault_border-style:solid;border-style:solid;}#i9u6 .ch5-keypad.ch5-keypad--type-default .keypad-btn-pressed.keypad-btn button{keypadActiveDefault_color:#f0fff0;color:#f0fff0;keypadActiveDefault_border-color:#0091ea;border-color:#0091ea;keypadActiveDefault_background-color:#008ae6;background-color:#008ae6;keypadActiveDefault_border-width:1px;border-width:1px;keypadActiveDefault_border-style:solid;border-style:solid;}#i9u6{pointer-events:all;keypadDefault_color:#ffffff;keypadDefault_border-color:#0091ea;keypadActiveDefault_color:#f0fff0;keypadActiveDefault_border-color:#0091ea;display:block;width:270px;height:367px;min-width:210px;min-height:278px;left:0px;top:0px;position:absolute;keypadDefault_background-color:#0099ff;keypadDefault_border-width:1px;keypadDefault_border-style:solid;keypadActiveDefault_background-color:#008ae6;keypadActiveDefault_border-width:1px;keypadActiveDefault_border-style:solid;}}@media (orientation: landscape) and (max-width: 2561px) and (max-height: 1441px), (orientation: landscape) and (max-width: 2559px){#ipuush8vo0{width:276px;height:369px;left:0;top:0;position:absolute;}#wrapper{background-color:#fff;}#i9u6 .ch5-keypad{width:inherit;height:inherit;min-width:210px;min-height:278px;}#i9u6{pointer-events:all;keypadDefault_color:#ffffff;keypadDefault_border-color:#0091ea;keypadActiveDefault_color:#f0fff0;keypadActiveDefault_border-color:#0091ea;display:block;width:270px;height:367px;min-width:210px;min-height:278px;left:0px;top:0px;position:absolute;keypadDefault_background-color:#0099ff;keypadDefault_border-width:1px;keypadDefault_border-style:solid;keypadActiveDefault_background-color:#008ae6;keypadActiveDefault_border-width:1px;keypadActiveDefault_border-style:solid;}}
+
+{PageAttributes}
+
+[Attributes]
+Name = "Widget1"
+PageMode = "absolute"
+Id = "c0a6b8c0-28d3-42fb-bc9d-c3532be7218c"
+
+[[Elements]]
+Type = "widgetContainer"
+Classes = ["widget-container"]
+
+[[Elements.Components]]
+Type = "Ch5 Keypad"
+Editable = true
+
+[[Elements.Components.Components]]
+Type = "textnode"
+Content = "\n              "
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "button1"
+labelmajor = "1"
+labelminor = ""
+componentName = "button1"
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "button2"
+labelmajor = "2"
+labelminor = "ABC"
+componentName = "button2"
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "button3"
+labelmajor = "3"
+labelminor = "DEF"
+componentName = "button3"
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "button4"
+labelmajor = "4"
+labelminor = "GHI"
+componentName = "button4"
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "button5"
+labelmajor = "5"
+labelminor = "JKL"
+componentName = "button5"
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "button6"
+labelmajor = "6"
+labelminor = "MNO"
+componentName = "button6"
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "button7"
+labelmajor = "7"
+labelminor = "PQRS"
+componentName = "button7"
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "button8"
+labelmajor = "8"
+labelminor = "TUV"
+componentName = "button8"
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "button9"
+labelmajor = "9"
+labelminor = "WXYZ"
+componentName = "button9"
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "button0"
+labelmajor = "0"
+labelminor = "+"
+componentName = "button0"
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "buttonstar"
+labelmajor = "*"
+componentName = "buttonstar"
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "buttonhash"
+labelmajor = "#"
+componentName = "buttonhash"
+[[Elements.Components.Components]]
+Type = "Ch5 Keypad Button"
+Editable = true
+
+[Elements.Components.Components.Attributes]
+pressed = "false"
+key = "buttonextra"
+iconclass = "fas fa-phone"
+componentName = "buttonextra"
+
+[Elements.Components.Attributes]
+shape = "rounded-rectangle"
+size = "regular"
+type = "default"
+indexid = "idx"
+useContractForCustomStyle = "false"
+useContractForCustomClass = "false"
+useContractForEnable = "false"
+useContractForShow = "false"
+affectedByPreviewState = "True"
+useContractForHideAsteriskButton = "false"
+useContractForHidePoundButton = "false"
+textorientation = "top"
+disabled = "false"
+showextrabutton = "false"
+customvstheme = "custom"
+hideasteriskbutton = "false"
+hidepoundbutton = "false"
+id = "i9u6"
+componentName = "Keypad"
+ccid_linkSendReceive = "True"
+devicesVisited = "[\"4K Monitor\"]"
+ccid_themeCSSSet = "true"
+
+[Elements.Attributes]
+id = "ipuush8vo0"
+devicesVisited = "[\"4K Monitor\"]"
+defaultWidth = "500px"
+defaultHeight = "500px"
+
